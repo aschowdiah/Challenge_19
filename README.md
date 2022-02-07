@@ -21,11 +21,11 @@
 - Install the latest version of Ganache at: https://trufflesuite.com/ganache/
 
  ## Results ##
-This is what the application should look like once it has successfully launches: 
+- This is what the application should look like once it has successfully launches: 
  
 ![1](https://user-images.githubusercontent.com/88863562/152709815-4459c743-b41c-4a03-8de6-136e0da9d79c.PNG)
 
-Example of a successful transaction:
+- Example of a successful transaction:
 
 ![2 5](https://user-images.githubusercontent.com/88863562/152710072-4f17d165-9ae5-4c2d-a093-a5b0fa057c24.PNG)
 
